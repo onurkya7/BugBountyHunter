@@ -44,7 +44,11 @@ pip install -r requirements.txt
 
 ### XXE (XML External Entity) Vulnerability Checker
 - This tool checks for prototype pollution and XXE vulnerabilities.
-  
+
+## Contributing
+
+- If you encounter any issues with the project, feel free to report them on [GitHub Issues](https://github.com/username/BreadcrumbsBugBountyHunter/issues).
+- If you wish to contribute to the project, you can submit a [Pull Request](https://github.com/username/BreadcrumbsBugBountyHunter/pulls).
 
 ## License
 
