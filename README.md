@@ -52,5 +52,5 @@ pip install -r requirements.txt
 
 ## License
 
-Our project is licensed under the [MIT License](LICENSE).
+Our project is licensed under the [GNU General Public License v3.0](LICENSE).
 
